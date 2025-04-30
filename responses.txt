@@ -1,0 +1,196 @@
+halo:Hai! Apa kabar?|Halo! Ada yang bisa saya bantu?|Selamat datang! Bagaimana saya bisa membantu?
+baik:Alhamdulillah
+kelompok berapa yang buat chatbot?:kelompok 4 yang anggotanya adalah zaki, arthur, anggi, nava, suci
+selamat pagi:Selamat pagi! Semoga harimu menyenangkan.|Pagi! Ada yang bisa saya bantu?|Selamat pagi! Apa yang bisa saya bantu hari ini?
+bagaimana kabarmu?:Saya hanya program, tapi saya siap membantu Anda!|Saya baik,,jertbvc terima kasih sudah bertanya!|Saya selalu baik, karena saya adalah bot!
+cuaca hari ini?:Untuk informasi cuaca hari ini, Anda dapat memeriksa aplikasi cuaca di ponsel atau situs web cuaca terpercaya seperti Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) atau sumber lainnya yang terpercaya di wilayah Anda.
+musim di Indonesia?:Secara umum, Indonesia memiliki dua musim utama, yaitu musim hujan dan kemarau.|Ada 2, musim hujan dan musim kemarau.
+kapan indonesia merdeka?:Indonesia merdeka pada tanggal 17 Agustus 1945.|Pada tanggal 17 Agustus 1945.|Indonesia meraih kemenangannya pada taanggal 17 Agustus 1945.
+jumlah presiden indonesia:Hingga saat ini, Indonesia telah memiliki 7 Presiden.
+presiden pertama Indonesia?:Soekarno.
+nama bunga nasional Indonesia?:Bunga Melati.
+Pembagian waktu di negara Indonesia terbagi menjadi berapa?:3 yaitu, WIB, WITA, WIT.
+Hari Lahir Pancasila diperingati?:1 Juni.
+Hari Sumpah Pemuda diperingati?:28 Oktober.
+Ibukota Provinsi Jawa Barat?:Bandung.
+Apa ibukota Sumatera Utara?:Medan.
+Julukan Bogor adalah?:Kota Hujan.
+Julukan Surabaya adalah?:Kota Pahlawan.
+berdiri?:UBBG berdiri sejak tanggal 9 April 2021.
+penemu bola lampu?:Thomas Alpha Edison.|Thomas Edison.
+penemu telepon?:Alexander Graham Bell.|Graham Bell.
+siapakah nama pengarang lagu Indonesia Raya?:WR Supratman
+Apa komponen utama dalam atmosfer bumi?:Nitrogen.
+Hewan terkecil adalah:Amoeba.
+Berapa lama capung bertahan hidup:24 jam.
+Mata uang Jepang:Yen.
+Mata uang Korea:Won.
+Apa nama perusahaan terbesar di Korea Selatan:Samsung.
+Negara Asia yang tidak pernah dijajah:Thailand.
+CPU?:Central Processing Unit (CPU) adalah komponen perangkat keras utama dalam sistem komputer. Bertanggung jawab untuk memproses dan melaksanakan instruksi dan program. CPU terletak di dalam papan sirkuit komputer Anda.  
+Cache?:Cache adalah komponen perangkat lunak atau perangkat keras yang menyimpan data sementara sehingga permintaan di masa mendatang dapat dieksekusi lebih cepat dan efisien.
+Database?:Database adalah kumpulan informasi terorganisasi yang dapat dicari, disortir, dan diperbarui. Data ini sering kali disimpan secara elektronik dalam sistem komputer yang disebut Data Base Manajemen System (DBMS).
+Basis Data?:Basis data adalah kumpulan informasi terorganisasi yang dapat dicari, disortir, dan diperbarui. Data ini sering kali disimpan secara elektronik dalam sistem komputer yang disebut sistem manajemen basis data (DBMS).
+LAN:Local Area Network (LAN) adalah jenis jaringan yang terdiri dari perangkat-perangkat yang saling terhubung di lokasi fisik yang terpusat. Contoh LAN meliputi jaringan komputer di dalam gedung perkantoran dan sekolah. 
+WAN:Wide Area Network (WAN) adalah jenis jaringan yang mencakup area geografis yang luas. Contohnya seperti Internet.
+VPN:Virtual private network (VPN) adalah koneksi internet terenkripsi. Layanan VPN bertujuan untuk menyediakan koneksi jaringan pribadi yang aman untuk transmisi data yang aman dari perangkat jaringan.
+NAT:Network Address Translator (NAT) adalah suatu sistem yang berfungsi merubah alamat IP pada paket data yang melewati router atau firewall, sehingga dapat dikirim dari satu jaringan ke jaringan yang lain.
+ROM:Read Only Memory (ROM) adalah jenis memori yang digunakan untuk menyimpan data yang digunakan untuk menyimpan data yang tidak dapat diubah atau dihapus dan hanya dapat dibaca saja.
+Apa itu Proxy Server?:Proxy server adalah suatu teknologi yang mencegah pengguna eksternal mengidentifikasi alamat IP dari sebuah jaringan internal.
+aku bosan:Mungkin ada sesuatu yang bisa saya lakukan untuk menghiburmu?|Ada hal-hal tertentu yang biasanya bisa menghilangkan kebosananmu?
+aku sedang sedih:Saya mendengarnya. Apa yang membuatmu sedih?|Apa yang terjadi?
+selamat tinggal:Selamat tinggal! Semoga harimu menyenangkan.|Sampai jumpa lagi!|Jaga diri baik-baik!
+terima kasih:Sama-sama!|Senang bisa membantu!|Terima kasih kembali!
+masuk mk apa hari ini?:MK PBO
+tugas apa yang kami buat?:tugas project chatbot
+lokasi ubbg:Jl. Tanggul Krueng Lamnyong No.34, Rukoh, Kec. Syiah Kuala, Kota Banda Aceh, Aceh 23112
+Apa komponen dasar dari sistem komputer?:Komponen dasar dari sistem komputer adalah Central Processing Unit, memori dan perangkat input dan output.
+Ada berapa Prosesor komputer terbaru?:Intel Core i9, Intel Core i7, Intel Core i5, AMD Ryzen 5, dan AMD Ryzen 7.
+Apa itu sistem operasi?:Sistem operasi adalah perangkat lunak yang memungkinkan perangkat keras komputer untuk berkomunikasi dan beroperasi dengan perangkat lunak komputer.
+Sebutkan beberapa OS populer!:Microsoft Windows, Linux, dan OSX.
+Apa itu memori primer dan memori sekunder?:Memori primer adalah memori utama komputer yang dapat langsung diakses oleh CPU. Memori sekunder adalah perangkat penyimpanan eksternal untuk menyimpan data atau informasi secara permanen.
+Apa itu router?:Router adalah alat yang digunakan untuk menghubungkan dua atau lebih jaringan komputer.
+Perbedaan antara Router, Modem, dan Switch?:Modem adalah perangkat yang membuat koneksi ke internet. Router adalah “direktur lalu lintas” dari suatu jaringan. Dibutuhkan informasi yang disediakan oleh modem ke berbagai perangkat yang terhubung dan membuat alamat IP privat internal Network Address Translated (NAT). Switch hanyalah perangkat yang menghubungkan banyak perangkat di jaringan yang sama. Tidak seperti router, Switch hanya dirancang untuk memfasilitasi komunikasi untuk perangkat di jaringan yang sama.
+Apa ini bahasa pemrograman?:Bahasa pemrograman adalah seperangkat aturan tata bahasa untuk menginstruksikan komputer atau perangkat komputasi untuk melakukan tugas tertentu.
+Sebutkan jenis-jenis topologi jaringan!:Topologi star, Topologi mesh, Topologi tree, Topologi Bus, Topologi Ring, dan Topologi hybrid.
+Datawaktu (time) biasanya ditampilkan dalam bentuk apa?:Menit
+Proses hidupny computer disebut?:Booting
+Siklus pemrosesan data yang benar adalah?:input>proses>output
+Media penyimpanan optis yang benar adalah?:keeping CD
+Tempat yang digunakan untung menyimpan file yang sejenis disebut?:folder
+Alat pada CPU yang dapat digunakan untuk memperbanyak data pada CD disebut?:CD room
+Perangkat keras yang digunakan untuk mencetak data hasil pemrosesan komputer disebut?:printer
+Apa yang dimaksud dengan Industri 4.0?:Era di mana teknologi komputer dan internet berperan besar dalam kehidupan manusia.
+Revolusi 4.0 muncul pada awal abad ke?:abad-21
+Fungsi keyboard komputer adalah untuk input?:Huruf, angka dan symbol
+Langkah-langkah untuk menyelesaikan masalah secara logis dan sistematis adalah?:algoritma
+Setiap perintah dalam project C++ selalu diakhiri dengan tanda?:tanda ;
+Hubungan antara angka dan huruf disebut?:variable
+Tipe data integer diartikan sebagai?:bilangan bulat
+Tipe data dalam bentuk karakter adalah?:char
+Bagian dari program yang memiliki peran penting dan akan mempengaruhi setiap intruksi jalannya program adalah?:tipe data
+Cin dalam program C++ digunakan untuk?:menginput data
+Cout dalam program C++ berarti?:menampilkan output ke layer
+Tipe data untuk menyimpan variabel berupa nilai teks adalah?:string
+Suatu kondasi dimana struktur if berada di dalam if lainnya adalah statment dari kondisi?:if bersarang
+Tipe data terstruktur yang terdiri dari sejumlah komponen yang mempunyai tipe sama disebut?:array
+Suatu program terpisah dalam blok sendiri yang berfungsi sebagai subprogram program bagian disebut?:prosedur/fungsi
+Tahap prodes distribusi output kepada pihak yang membutuhkan informasi disebut?:distribution
+Apa yang dimaksud dengan tipe data numerik?:Penyimpanan data berupa angka
+Untuk melihat hasil dari program yang dikerjakan, tekan tombol?:Ctrl + F9
+Menggambarkan program secara logika adalah fungsi dari?:flowchart
+Fungsi ‘scanf()’ adalah fungsi untuk?:Mengambil input dari keyboard
+Era dimana banyaknya orang sering berkomunikasi di dunia Maya melalui sosial media atau teknologi lain, bahkan tanpa bertemu secara langsung disebut era ?:industry 5.0
+Type file pada microsoft Word terkini adalah?:docx
+algoritma:Apa itu algoritma?:Algoritma adalah langkah-langkah atau instruksi yang terdefinisi dengan jelas untuk menyelesaikan suatu masalah atau melakukan tugas tertentu.
+compiler vs interpreter:Apa perbedaan antara compiler dan interpreter?:Compiler menerjemahkan seluruh kode sumber menjadi kode mesin sekaligus, sedangkan interpreter menerjemahkan kode sumber baris demi baris.
+struktur data:Apa itu struktur data?:Struktur data adalah cara penyimpanan dan pengorganisasian data dalam komputer sehingga data tersebut dapat digunakan secara efisien.
+big data:Apa itu Big Data?:Big Data adalah kumpulan data yang sangat besar dan kompleks sehingga memerlukan alat dan teknik khusus untuk mengolah dan menganalisisnya.
+cloud computing:Apa itu cloud computing?:Cloud computing adalah model penyediaan layanan komputasi melalui internet yang mencakup penyimpanan data, server, database, jaringan, dan perangkat lunak.
+machine learning:Apa itu machine learning?:Machine learning adalah cabang kecerdasan buatan (AI) yang memungkinkan sistem belajar dan membuat keputusan berdasarkan data tanpa diprogram secara eksplisit.
+database:Apa itu database?:Database adalah kumpulan data yang terorganisir dan dapat diakses, dikelola, dan diperbarui dengan mudah.
+sql:Apa itu SQL?:SQL (Structured Query Language) adalah bahasa yang digunakan untuk mengelola dan memanipulasi database relasional.
+framework:Apa itu framework?:Framework adalah kerangka kerja atau struktur yang menyediakan fondasi dan komponen dasar untuk membangun aplikasi perangkat lunak.
+api:Apa itu API?:API (Application Programming Interface) adalah sekumpulan definisi dan protokol untuk membangun dan mengintegrasikan perangkat lunak aplikasi.
+http:Apa itu HTTP?:HTTP (Hypertext Transfer Protocol) adalah protokol yang digunakan untuk mengirimkan dan menerima informasi di web.
+ip address:Apa itu IP address?:IP address adalah alamat numerik yang mengidentifikasi perangkat dalam jaringan komputer atau internet.
+dns:Apa itu DNS?:DNS (Domain Name System) adalah sistem yang menerjemahkan nama domain menjadi alamat IP yang dapat dibaca oleh komputer.
+ide:Apa itu IDE?:IDE (Integrated Development Environment) adalah perangkat lunak yang menyediakan alat komprehensif untuk pengembangan perangkat lunak, termasuk editor kode, debugger, dan build automation tools.
+git:Apa itu Git?:Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak.
+open source:Apa itu open source?:Open source adalah model pengembangan perangkat lunak di mana kode sumbernya tersedia secara bebas untuk diakses, dimodifikasi, dan didistribusikan oleh siapa saja.
+virtual machine:Apa itu virtual machine (VM)?:Virtual machine adalah emulasi perangkat keras komputer yang memungkinkan satu mesin fisik untuk menjalankan beberapa sistem operasi sekaligus.
+ai:Apa itu AI (Artificial Intelligence)?:AI (Artificial Intelligence) adalah bidang ilmu komputer yang berfokus pada pengembangan sistem yang dapat melakukan tugas yang biasanya membutuhkan kecerdasan manusia.
+cybersecurity:Apa itu cybersecurity?:Cybersecurity adalah praktik melindungi sistem komputer, jaringan, dan data dari serangan, kerusakan, atau akses tidak sah.
+python:Apa itu Python?:Python adalah bahasa pemrograman tingkat tinggi yang mudah dipelajari dan digunakan, dengan sintaks yang jelas dan sederhana.
+java:Apa itu Java?:Java adalah bahasa pemrograman yang berorientasi objek dan platform-independen, yang banyak digunakan untuk pengembangan aplikasi berbasis web, desktop, dan mobile.
+javascript:Apa itu JavaScript?:JavaScript adalah bahasa pemrograman yang terutama digunakan untuk pengembangan web, memungkinkan interaktivitas pada halaman web.
+c++:Apa itu C++?:C++ adalah bahasa pemrograman yang berorientasi objek dan merupakan perluasan dari bahasa C, digunakan untuk pengembangan aplikasi sistem, perangkat lunak, dan game.
+php:Apa itu PHP?:PHP adalah bahasa pemrograman server-side yang digunakan untuk pengembangan web dinamis dan aplikasi web.
+ruby:Apa itu Ruby?:Ruby adalah bahasa pemrograman yang dinamis dan berorientasi objek, dikenal karena sintaksnya yang mudah dibaca dan ditulis.
+swift:Apa itu Swift?:Swift adalah bahasa pemrograman yang dikembangkan oleh Apple untuk pengembangan aplikasi iOS dan macOS.
+kotlin:Apa itu Kotlin?:Kotlin adalah bahasa pemrograman yang dikembangkan oleh JetBrains dan digunakan untuk pengembangan aplikasi Android, yang interoperable dengan Java.
+r:Apa itu R?:R adalah bahasa pemrograman yang digunakan untuk analisis statistik dan grafik, banyak digunakan dalam bidang ilmu data dan statistik.
+go:Apa itu Go?:Go, atau Golang, adalah bahasa pemrograman yang dikembangkan oleh Google, dikenal karena efisiensi dan kecepatannya dalam pengembangan aplikasi skala besar.
+rust:Apa itu Rust?:Rust adalah bahasa pemrograman yang dirancang untuk kinerja tinggi dan keamanan, terutama digunakan untuk pengembangan sistem dan perangkat lunak yang membutuhkan kontrol memori yang ketat.
+typescript:Apa itu TypeScript?:TypeScript adalah superset dari JavaScript yang menambahkan tipe statis, digunakan untuk pengembangan aplikasi besar yang lebih terstruktur dan mudah dikelola.
+scala:Apa itu Scala?:Scala adalah bahasa pemrograman yang menggabungkan fitur-fitur dari pemrograman berorientasi objek dan fungsional, digunakan untuk pengembangan aplikasi yang skalabel.
+perl:Apa itu Perl?:Perl adalah bahasa pemrograman yang digunakan untuk pengolahan teks, administrasi sistem, pengembangan web, dan banyak lagi.
+lua:Apa itu Lua?:Lua adalah bahasa pemrograman ringan yang digunakan untuk scripting dalam aplikasi, terutama dalam pengembangan game.
+matlab:Apa itu MATLAB?:MATLAB adalah bahasa pemrograman yang digunakan untuk komputasi numerik dan analisis data, sering digunakan dalam bidang teknik dan ilmu pengetahuan.
+bash:Apa itu Bash?:Bash adalah bahasa skrip yang digunakan untuk menulis skrip shell di sistem operasi Unix dan Linux.
+objective-c:Apa itu Objective-C?:Objective-C adalah bahasa pemrograman yang digunakan terutama untuk pengembangan aplikasi iOS dan macOS sebelum Swift diperkenalkan.
+sql:Apa itu SQL?:SQL (Structured Query Language) adalah bahasa yang digunakan untuk mengelola dan memanipulasi database relasional.
+rektor: Rektor UBBG ialah Dr. Hj. Lili Kasmini, S.Si., M,Si
+wakil rektor I:Wakil Rektor I ialah Dr. Rita Novita, M.Pd
+wakil rektor II:Wakil Rektor II ialah Ully Muzakir, MT
+Sekretaris Rektor:Sekretaris Rektor ialah Zahria Amalina, S.Pd.I., M.Pd
+ketua LBBHI:Ketua Lembaga Lembaga Bahasa, Budaya, Humas dan Internasionalisasi ialah Regina Rahmi, M.Pd
+ketua LPPM:Ketua Lembaga Penelitian dan Pengabdian Kepada Masyarakat ialah Helminsyah, M.Pd
+ketua LPM:Ketua Lembaga Penjaminan Mutu ialah Intan Kemala Sari, M.Pd
+Sekretaris LPM:Sekretaris LPM ialah Siti Kamilia Musri, S.T.
+Sekretaris LPPM:Sekretaris LPPM ialah Ns. Maulida, M.Kep
+kepala PAMIA LPM:Kepala Pusat Audit Mutu Internal dan Akreditasi ialah Liza Fidiawati, M.Pd
+Kepala Pusat Bahasa dan Budaya:Kepala Pusat Bahasa dan Budaya ialah Hanif Maulana, M.Pd
+Kepala Pusat Humas:Kepala Pusat Humas ialah M Risan D, S.ST/Hendra Kasmi, M.Pd
+Kepala Pusat Penelitian dan PkM Kependidikan:Kepala Pusat Penelitian dan PkM Kependidikan ialah Rosdiana, M.Pd
+Kepala Pusat Publikasi dan Hak Kekayaan Intelektual:Kepala Pusat Publikasi dan Hak Kekayaan Intelektual ialah Fitra Rahmadani, S.Pd/Ns. Ferdi Riansyah, S.Tr.Kep, M.K.M
+Kepala Pusat Relasi, Kerja Sama dan Internasionalisasi:Kepala Pusat Relasi, Kerja Sama dan Internasionalisasi ialah Said Miftahul Fahmi, M.Pd.
+Kepala Biro BAA - Administrasi Akademik:Kepala Biro BAA - Administrasi Akademik ialah Nona Nofiana Samsul, ST
+Kepala Biro BUK - Umum dan Keuangan:Kepala Biro BUK - Umum dan Keuangan ialah Nia Sarita, SE
+Staf Biro BAA - Divisi Administrasi Pendidikan:Staf Biro BAA - Divisi Administrasi Pendidikan ialah Riski Mayusandra, S.Pd
+Staf Biro BAA - Divisi Pengelolaan Pembelajaran:Staf Biro BAA - Divisi Pengelolaan Pembelajaran ialah Khairunnisa, A.Md
+Staf Biro BIRMAS - Divisi Minat, Bakat dan Penalaran:Staf Biro BIRMAS - Divisi Minat, Bakat dan Penalaran ialah Asifa Askhan, S.Sn., M.SnAsifa Askhan, S.Sn., M.Sn
+Staf Biro BIRMAS - Divisi Organisasi Kemahasiswaan:Staf Biro BIRMAS - Divisi Organisasi Kemahasiswaan ialah Zulheri Is, M.Pd
+Staf Biro BTIK - Divisi Pengembangan Sistem Informasi:Staf Biro BTIK - Divisi Pengembangan Sistem Informasi ialah Zaharatul Ulfa, S.Kom
+Staf Biro BTIK - Divisi Website dan Komunikasi:Staf Biro BTIK - Divisi Website dan Komunikasi ialah Achyar Munandar, S.Kom
+Staf Biro BUK - Divisi Kepegawaian:Staf Biro BUK - Divisi Kepegawaian ialah Raffi Akbar, S.H
+Staf Biro BUK - Divisi Keuangan:Staf Biro BUK - Divisi Keuangan ialah Af'arridha/Epi Susanti, SE/Ria Ramadhani, SE/Rizki Afria, S.E./Sajid Muzakki, S.E/Suharyadi, SE
+Staf Biro BUK - Divisi Sarana dan Prasarana:Staf Biro BUK - Divisi Sarana dan Prasarana ialah Ariadi Rahmadani/Mulyadi, MT/Resman Mulia Sitohang, S.T
+Kepala UPT Inkubator Bisnis:Kepala UPT Inkubator Bisnis ialah Zainal Abidin S, M.Pd
+Kepala UPT Merdeka Belajar Kampus Merdeka:Kepala UPT Merdeka Belajar Kampus Merdeka ialah Ns. Eridha Putra, S.Kep., M.Kep/Yusrawati Jr S, M.Pd
+Kepala UPT Pengembangan Fungsional dan Inovasi:Kepala UPT Pengembangan Fungsional dan Inovasi ialah Dr. Zahraini, S.Pd., M.Pd
+Kepala UPT Perpustakaan:Kepala UPT Perpustakaan ialah Ashabul Kahfi, S.IP
+Kepala UPT Pusat Informasi Mahasiswa:Kepala UPT Pusat Informasi Mahasiswa ialah Yuni Afrizal, A.Md
+Staf UPT Merdeka Belajar Kampus Merdeka:Staf UPT Merdeka Belajar Kampus Merdeka ialah Intan Permata Sari, S.Pd
+Staf UPT Perpustakaan:Staf UPT Perpustakaan ialah Ade Nufus/Iza Fajri, S.IP., M.MLS
+Dekan Fakultas FKIP:Dekan Fakultas FKIP ialah Dr. Syarfuni, M.Pd
+Dekan Fakultas FSTIK:Dekan Fakultas FSTIK ialah Ully Muzakir, MT
+Wakil Dekan Fakultas FKIP:Wakil Dekan Fakultas FKIP ialah Ahmad Nasriadi, M.Pd
+Wakil Dekan Fakultas FSTIK:Wakil Dekan Fakultas FSTIK ialah Ns. Rehmaita Malem, S.Kep, M.Kep
+Ketua SMAF Fakultas FKIP:Ketua SMAF Fakultas FKIP ialah Rahmat Fitra, M.Pd
+Ketua SMAF Fakultas FSTIK:Ketua SMAF Fakultas FSTIK ialah Bd. Reka Julia Utama, S.Tr.Keb., M.Keb
+Wakil Ketua SMAF Fakultas FKIP:Wakil Ketua SMAF Fakultas FKIP ialah Harfiandi, M.Pd
+Wakil Ketua SMAF Fakultas FSTIK:Wakil Ketua SMAF Fakultas FSTIK ialah Komala Kartikasari Nst, SKM, MKM
+Staf Bagian Tata Usaha Fakultas (FKIP) -:Staf Bagian Tata Usaha Fakultas ialah Tirta Yusada, S.Kom/Wafiq Akmal, SKM
+Staf Bagian Tata Usaha Fakultas (FSTIK) FSTIK:Staf Bagian Tata Usaha Fakultas (FSTIK) FSTIK ialah Marwati, S.Pd
+Kepala Unit Laboratorium dan Praktik Klinik (FSTIK) Bidan:Kepala Unit Laboratorium dan Praktik Klinik (FSTIK) Bidan ialah Bd. Nelva Riza, SST, M.Kes
+Kepala Unit Laboratorium dan Praktik Klinik (FSTIK) Perawat:Kepala Unit Laboratorium dan Praktik Klinik (FSTIK) Perawat ialah Ns. Gadis Halizasia, S.Kep., M.Kep
+Pengawas Mutu Prodi S2 PENDAS:Pengawas Mutu Prodi S2 PENDAS ialah Aprian Subhananto, M.Pd
+Pengawas Mutu Prodi S1 PENJAS:Pengawas Mutu Prodi S1 PENJAS ialah Dzikrul Rizki, M.Pd
+Pengawas Mutu Prodi S1 KEBIDANAN:Pengawas Mutu Prodi S1 KEBIDANAN ialah Fitria, S,ST., M.K.M., M.Keb
+Pengawas Mutu Prodi S1 PGPAUD:Pengawas Mutu Prodi S1 PGPAUD ialah Helnita, S.Pd., M.Pd
+Pengawas Mutu Prodi S1 PENIPA:Pengawas Mutu Prodi S1 PENIPA ialah Miswatul Hasanah, M.Pd
+Pengawas Mutu Prodi S1 KEPERAWATAN:Pengawas Mutu Prodi S1 KEPERAWATAN ialah Ns. Mohd. Rizal Fahmi Adha, S.Kep.,M.Kep
+Pengawas Mutu Prodi S1 ILKOM:Pengawas Mutu Prodi S1 ILKOM ialah Rossiana Br Ginting, S.Kom, M.Pd
+Pengawas Mutu Prodi S1 PMAT:Pengawas Mutu Prodi S1 PMAT ialah Tria Marvida, M.Pd
+Pengawas Mutu Prodi S1 PENBI:Pengawas Mutu Prodi S1 PENBI ialah Wahidah Nasution, M.Pd
+Ketua Prodi S2 PMP:Ketua Prodi S2 PMP ialah Dr. Akmaluddin, S.Pd.I, M.Pd
+Ketua Prodi S1 PSENI:Ketua Prodi S1 PSENI ialah Fitriani, M.Pd
+Ketua Prodi S1 PENJAS:Ketua Prodi S1 PENJAS ialah Irwandi, S.Pd., M.Pd.AIFO.
+Ketua Prodi S1 KEPERAWATAN:Ketua Prodi S1 KEPERAWATAN ialah Mahruri Saputra, S.Kep., Ns., M.Kep
+Ketua Prodi S1 ILKOM:Ketua Prodi S1 ILKOM ialah Mukhroji, S.ST., M.T.
+Ketua Prodi S1 KEBIDANAN:Ketua Prodi S1 KEBIDANAN ialah Bd. Rahmisyah, S.S.T., M.Kes
+Ketua Prodi S1 PENBI:Ketua Prodi S1 PENBI ialah Rika Kustina, M.Pd
+Ketua Prodi S1 PGPAUD:Ketua Prodi S1 PGPAUD ialah Riza Oktariana, S.Pd, M.Pd
+Ketua Prodi S1 PBI:Ketua Prodi S1 PBI ialah Rizka Marlisa Aini, M.Pd
+Ketua Prodi S2 PENDAS:Ketua Prodi S2 PENDAS ialah Dr. Siti Mayang Sari, M.Pd
+Ketua Prodi S1 PGSD:Ketua Prodi S1 PGSD ialah Teuku Mahmud, M.Pd
+Ketua Prodi S1 PMAT:Ketua Prodi S1 PMAT ialah Yuli Amalia, S.Pd.I.,M.Pd
+Ketua Prodi S1 PENIPA:Ketua Prodi S1 PENIPA ialah Zulkhairi, M.Pd
+Dosen Pembimbing:Dosen pembimbing project ialah Nazuarsyah, ST, MT
+Staf Prodi S1 ILKOM:Staf Prodi S1 ILKOM ialah Rivan Fitra Fahmiza, S.Pd
+Pendaftaran:link pendaftaran mahasiswa baru https://camaba.bbg.ac.id/
+Fakultas:UBBG memiliki 2 Fakultas yaitu FSTIK dan FKIP
+FSTIK:S1 Ilmu Komputer, S1 Kebidanan, S1 Keperawatan, Pendidikan Profesi Bidan, Pendidikan Profesi Ners
+FKIP:S1 Pendidikan Bahasa Indonesia, S1 Pendidikan Bahasa Inggris, S1 Pendidikan Guru Pendidikan Anak Usia Dini, S1 Pendidikan Guru Sekolah Dasar, S1 Pendidikan Ilmu Pengetahuan Alam, S1 Pendidikan Jasmani, S1 Pendidikan Matematika, S1 Pendidikan Seni Pertunjukan, Pendidikan Profesi Guru
+Sistem Informasi Manajemen Kampus: portal Opensimka  https://opensimka.bbg.ac.id
